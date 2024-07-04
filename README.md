@@ -14,7 +14,8 @@ The forensic investigation framework consists of the following phases:
 3. Data Extraction: Extract data from deleted messages, configuration files, and destroyed media using the Autopsy tool.
 4. Analysis: Examining deleted media and messages, including documents, movies, stickers, GIF pictures, photographs, and messages.
 5. Report Generation: Reporting and presenting the results of the examination and analysis in a legally acceptable manner.
-6. ![](https://github.com/shraddhapandey100/hatsApp-Forensics-Windows/blob/master/framework.png)
+6. ![](https://github.com/shraddhapandey100/WhatsApp-Forensics-Windows/blob/master/framework.png)
+
    
 
 - tools/: Contains tools such as FTK Imager and Autopsy used for evidence preservation and data extraction.
